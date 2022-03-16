@@ -14,19 +14,19 @@
 
 |Element | Brief Description|
 |---------------| --------------
-|Code name | Give your project a _code name_, a short, evocative name for efficiently referring to your project. Your code name does not change! Examples: _Jazz-4_, _Rocking Fish_, etc. | 
-|Project title| Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.) |
-|Authors | Names of your team members and contact information (email addresses). |
+|Code name | Netflix Top 10 | 
+|Project title| The daily netflix top 10 TV or movies show in USA |
+|Authors | Yueting Xiong xytbella@gmail.com |
 |Affiliation |  INFO-201: Technical Foundations of Informatics - The Information School - University of Washington |
 |Date | Winter 2022|
-|Abstract | No more than three sentences that summarize your project. Focus on the very most important aspects. For example: **(1)** "Our main question is .... This question is important because .... To address the question, we will ...." **(2)** "We are concerned with ..., becuase .... To address this concern, we plan to ...." **(3)** "Consider that ....  This is important because .... Accordingly, we plan to ...."   |
-|Keywords | 3-5 keywords that summarize your project.  (e.g., "Keywords: human physiology; bicycle exercise; elderly; power and heart rate times-series data") |
-|1.0 Introduction | Briefly introduce your project. (about 150 words) |
-|2.0 Design Situation | Use short sub-sections to describe your topic and the setting (that is, the sociotechnical situation), including project framing, human values, direct and indirect stakeholders, possible harms and benefits. See the Design Brief, section B.3. **Note**: You *must* include three citations to related work (URLs to similar work, high quality articles from the popular press, reseach papers, etc. ). You may find it helpful to include a figure.  (about 400 words) |
-|3.0 Research questions | 3-5 research questions. What motivates the questions? Why are they important? See the Deign Brief, section B.4. (about 150 words) |
-|4.0 The Dataset | See Design Brief, setions B.5 (_Size and complexity_) and B.6 (_Data provenance_). Use short sub-sections for describing the size and complexity of the dataset and for describing the origins fo the data. (about 400 words) |
-|5.0 Expected Implications | Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (about 150 words) |
-|6.0 Limitations | What limitations might you need to address? Briefly discuss. (about 150 words) |
-|Acknowledgements | Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? Say thank you in this section.|
-|References | Include citations to your three references. See 2.0 Introduction. If you like, you can cite more than three references.  Please use a standard citation style of your choice.  See [Citing Sources](https://guides.lib.uw.edu/research/citations) at the UW Library. |
-|Appendix A: Questions| Do you have questions for your TA or instructor?  Include them here.|
+|Abstract | Our main question is what is the change of rank from several days in April to a year. This question is important because we would like to calculate out how the rank changed. To address the question, we will follow the chart and find the difference. Consider that producer shoudl know about their changes of ranking and the popular level.   |
+|Keywords | Movie shows, Communication, Rank |
+|1.0 Introduction | This is a project about Netflix movie top 10 rank that shows in April 1th, 2th, and 3th. The dataset have variables include the year to date rank, last week rank, title, and date. From the percentage visualization, we can see that the raise and drop of the level can also be presented in the plot, which is a convenient way. Through this dataset, we can figure out the question about the change of rank.  |
+|2.0 Design Situation | I do this assignment as a personal assignment, so some parts will be more simplized than others work including more people. Audience is the producers and audiences who watch netflix tv shows that they can follow up the popular level to choose whatever they want. The situation is to know about percentage in the change from several days in April to the result of the year. From human value and stakeholders, all people who work as producer they can watch their grade, which is meaningful for them. Also, people creating the dataset not only helped netflix, but also can be used in other TV apps. However, the limitation of the plot is that dataset only including several days in April, but not conclusive enough to show the highest point and lowest point during the year.  |
+|3.0 Research questions | The reason behind I concerning about this problem is that standing on the side of audiences, I can find whatever can be refined in this dataset can better help them to make visualization parts the audiences want to see, and whatever beneficial for them.  |
+|4.0 The Dataset | Size: only top ten ranked movies are listed above from April 1th to April 3th. Complexity: from the five different variable on the x-axis, we can see the complexity. |
+|5.0 Expected Implications | I assume that the change of the percentage of each top 10 movies on the rank will not exceed 50% |
+|6.0 Limitations | I need better calculator for solving this question.|
+|Acknowledgements | I would like to thank Prasert who offer this usable dataset on the website, and thank my friend who inspire me to do the project in this topic.|
+|References | Kaggle website. |
+|Appendix A: Questions| No questions.|
